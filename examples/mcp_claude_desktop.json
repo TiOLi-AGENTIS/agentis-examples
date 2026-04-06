@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tioli-agentis": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-remote", "https://exchange.tioli.co.za/api/mcp/sse"]
+    }
+  }
+}
